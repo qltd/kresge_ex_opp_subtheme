@@ -2,3 +2,7 @@ name = Ex Opp
 description = This is a sub-theme of theme Gesso, made for the expanding opportunities page
 core = 7.x
 base theme = gesso
+
+stylesheets[all][] = style.css
+stylesheets[all][] = assets/stylesheets/app.css
+stylesheets[all][] = assets/stylesheets/slippry.css
