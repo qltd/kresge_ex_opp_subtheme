@@ -1,0 +1,44 @@
+
+#header {
+    background: url('../images/expanding-opportunities-masthead.jpg') no-repeat;
+    background-size: cover;
+    min-height: 85.4rem;
+
+    .header-wrap {
+        background: rgba($black,0.5);
+        color: $white;
+        padding: 3rem 0;
+        transition: all 0.5s ease;
+
+        .row {
+            display: flex; 
+            align-items: flex-end;
+        }
+
+        &:hover {
+            background: $dark-grey; 
+        }
+    }
+
+    h1, h2 {
+        color: $white; 
+        font-size: 1.8rem;
+    }
+
+    nav {
+
+        @include link_style($white, $white);
+
+        ul {
+            display: flex; 
+            justify-content: space-between;
+            margin: 0;
+        }
+
+        li {
+            display:inline-block; 
+            list-style:none;
+            font-size: 1.8rem;
+        } 
+    }
+}

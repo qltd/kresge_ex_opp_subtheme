@@ -1,0 +1,54 @@
+#block_area {
+   padding: $block_padding_small;   
+
+   h3 {
+       @include small_heading_style($dark-grey);
+       font-weight: bold;
+       margin-bottom: 5rem;
+   } 
+}
+
+#block_area_1 {
+   background: $light-blue; 
+   color: $white;
+   padding: $block_padding_small;   
+
+   h3 {
+       font-size: $block_heading_font_size;
+       color: $white; 
+       margin-bottom: 5rem;
+       text-align: center;
+   } 
+
+   .fast-fact-icon {
+       text-align: center; 
+   }
+
+   .fast-fact-content {
+       text-align: center; 
+       text-transform: uppercase;
+       font-size: 2.85rem;
+       line-height: 2.85rem;
+   }
+
+   .fast-fact-wrap {
+        background: $sky-blue; 
+        min-height: 28.4rem;
+        margin-bottom: 1.5rem;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        align-items: center;
+        transition: all 0.5s ease;
+
+        &:hover {
+            background: darken($sky-blue,10%); 
+
+            .fast-fact-content {
+                position:relative; 
+                top:-0.5rem;
+            }
+        }
+   }
+}
+

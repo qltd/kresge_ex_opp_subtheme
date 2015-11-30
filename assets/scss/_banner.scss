@@ -1,0 +1,30 @@
+
+#banner {
+    @include banner_styles($blue,$white);
+
+    h2 {
+        color: $white; 
+        font-size: $block_heading_font_size;
+    }
+
+    p {
+        font-size: $block_text_font_size; 
+        line-height:$block_text_font_size;
+        font-family: minion-pro;
+    }
+}
+
+#banner_2 {
+    @include banner_styles($light-purple,$white);
+
+    h2 {
+        font-size: $block_heading_font_size;
+        color: $white;
+        margin: 2rem 0;
+    }
+
+    p {
+        font-size: $block_text_font_size; 
+        line-height:$block_text_font_size;
+    }
+}

@@ -1,0 +1,130 @@
+/**
+ * Styles for Kresge Expanding Opportunites Page
+ * @rdarling42
+ * Styles for different blocks found in their own scss files
+ *
+ **/
+
+@font-face {
+    font-family: 'metaplusregular';
+    src: url('../fonts/ufonts.com_metaplus-webfont.eot');
+    src: url('../fonts/ufonts.com_metaplus-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/ufonts.com_metaplus-webfont.woff2') format('woff2'),
+    url('../fonts/ufonts.com_metaplus-webfont.woff') format('woff'),
+    url('../fonts/ufonts.com_metaplus-webfont.ttf') format('truetype'),
+    url('../fonts/ufonts.com_metaplus-webfont.svg#metaplusregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+html {
+    font-size:62.5%; //make 1rem = 10px
+}
+
+body, h1, h2, h3, h4, h5, h6, li, p {
+    font-family: 'metaplusregular';
+}
+
+.row {
+    max-width:102.4rem;
+}
+
+#eyebrow {
+    background: $dark-grey;
+    color: $vapor;
+    text-align: right;
+}
+
+#main {
+    h4 {
+        font-size: 4rem; 
+        font-weight: bold;
+    }
+
+    ul {
+        margin-left: 0; 
+    }
+
+    li {
+        font-size: 1.6rem; 
+        list-style:none;
+        font-style: italic;
+    }
+
+    p {
+        font-size: 2.2rem; 
+        line-height: 2.2rem;
+        font-family: 'minion-pro';
+    }
+
+    a {
+        font-family: 'metaplusregular';
+        text-transform: uppercase;
+        font-weight: bold;
+        font-size: 1.4rem;
+        color: $light-blue;
+
+        &:after {
+            content: " \f101";
+            font-family: FontAwesome;
+        }
+    }
+
+    .large-12.columns {
+        padding: 10rem 6rem; 
+    }
+
+    .first-main-row {
+
+        .bg1 {
+            background: url('../images/hug.jpg') no-repeat; 
+            background-position: center;
+            min-height: 92rem;
+        }
+
+    }
+
+    .second-main-row {
+
+        .bg2 {
+            background: url('../images/garden.jpg') no-repeat; 
+            min-height: 76rem;
+            background-position: center;
+        }
+
+    }
+}
+
+@media (max-width: 1024px){
+    #main {
+
+        .first-main-row {
+            background: url('../images/hug.jpg') no-repeat; 
+            background-size: cover;
+            
+            .bg1 {
+                display:none;
+            }
+
+            .large-6.columns {
+                background: rgba($white, 0.8); 
+            }
+
+        }
+
+        .second-main-row {
+            background: url('../images/garden.jpg') no-repeat; 
+            background-size: cover;
+
+            .bg2 {
+                display:none;
+            }
+
+            .large-6.columns {
+                background: rgba($white, 0.8); 
+            }
+        }
+    }
+}
+

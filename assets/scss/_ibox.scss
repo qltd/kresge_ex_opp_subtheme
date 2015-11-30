@@ -1,0 +1,140 @@
+.ibox-wrap {
+    overflow: hidden;
+    height: 28.4rem;
+    margin-bottom: 1.5rem;
+
+   .ibox-content {
+        height:0; 
+        transition: all 0.5s ease;
+        overflow: hidden;
+        color: $white;
+        position: relative;
+        top:17rem;
+        font-size: 2rem;
+        line-height: 2rem;
+   } 
+
+   .ibox-header {
+        font-size:3.5rem; 
+        padding:3rem;
+        color: $white;
+        transition: all 0.5s ease;
+        position:relative;
+        top:17.5rem;
+   }
+
+   &:hover {
+       .ibox-content {
+            height:28.4rem; 
+            padding: 3rem;
+            top: 0rem;
+       } 
+
+       .ibox-header {
+            top: 0rem; 
+       }
+   }
+}
+
+.box1 {
+    background: url('../images/program-images-1024-americas-cities.png') no-repeat;
+
+    .ibox-header {
+        background: $red; 
+    }
+
+    .ibox-content {
+        background: $red; 
+    }
+}
+
+.box2 {
+    background: url('../images/program-images-1024-detroit.png') no-repeat;
+
+    .ibox-header {
+        background: $orange-brown; 
+    }
+
+    .ibox-content {
+        background: $orange-brown; 
+    }
+}
+
+.box3 {
+    background: url('../images/program-images-1024-education.png') no-repeat;
+
+    .ibox-header {
+        background: $purple; 
+    }
+
+    .ibox-content {
+        background: $purple; 
+    }
+}
+
+.box4 {
+    background: url('../images/program-images-1024-social-investing.png') no-repeat;
+
+    .ibox-header {
+        background: $teal; 
+    }
+
+    .ibox-content {
+        background: $teal; 
+    }
+}
+
+.box5 {
+    background: url('../images/program-images-1024-human-services.png') no-repeat;
+
+    .ibox-header {
+        background: $yellow; 
+    }
+
+    .ibox-content {
+        background: $yellow; 
+    }
+}
+
+.box6 {
+    background: url('../images/program-images-1024-environment.png') no-repeat;
+
+    .ibox-header {
+        background: $green; 
+    }
+
+    .ibox-content {
+        background: $green; 
+    }
+}
+
+.box7 {
+    background: url('../images/program-images-1024-social-investing.png') no-repeat;
+
+    .ibox-header {
+        background: $blue; 
+    }
+
+    .ibox-content {
+        background: $blue; 
+    }
+}
+
+.box8 {
+    background: url('../images/program-images-1024-americas-cities.png') no-repeat;
+
+    .ibox-header {
+        background: $blue; 
+    }
+
+    .ibox-content {
+        background: $blue; 
+    }
+}
+
+@media (min-width: 1024px){
+    //only affects screens size 1024px and larger
+    .ibox-wrap {
+        background-position: center; 
+    }
+}

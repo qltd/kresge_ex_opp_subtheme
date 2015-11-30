@@ -1,0 +1,16 @@
+
+#cities {
+    background: $silver;
+    color: $dark-grey;
+    text-align: center;
+    padding: $block_padding;
+
+    h3 {
+        font-size: $block_heading_font_size;
+    }
+
+    p {
+        font-size: $block_text_font_size; 
+        line-height:$block_text_font_size;
+    }
+}

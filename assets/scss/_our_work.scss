@@ -1,0 +1,48 @@
+
+#our_work_image {
+    background: url('../images/veggies.jpg') no-repeat;
+    background-size: cover;
+    min-height: 93.1rem;
+}
+
+#our_work {
+    @include banner_styles($green,$white);
+    @include link_style($white,$white);
+
+    h2 {
+        font-size: $block_heading_font_size;
+        color: $white;
+    }
+
+    p {
+        font-size: $block_text_font_size; 
+        line-height:$block_text_font_size;
+    }
+
+    li {
+        font-size: $block_text_font_size; 
+        line-height:$block_text_font_size;
+        list-style: none;
+    }
+
+    .large-12 {
+        p {
+            margin: 2rem 0 1rem;  
+        }
+
+        ul {
+            margin-bottom: 7rem; 
+        }
+    }
+
+    .large-3 {
+        p {
+            font-weight: bold; 
+            font-size:3rem;
+
+            &:last-child {
+                padding-top: 4rem; 
+            }
+        } 
+    }
+}

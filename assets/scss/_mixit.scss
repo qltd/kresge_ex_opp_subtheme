@@ -1,0 +1,28 @@
+
+@mixin small_heading_style($color){
+    text-align: center; 
+    text-transform: uppercase;
+    font-size:2.4rem;
+    color: $color;
+}
+
+@mixin banner_styles($background, $color){
+    background: $background;
+    color: $color;
+    text-align: center;
+    padding: $block_padding;
+}
+
+@mixin link_style($color, $hover){
+    a {
+        color: $color; 
+
+        &:link, &:visited {
+            color: $color; 
+        }
+
+        &:hover {
+            color: $color; 
+        }
+    }
+}
