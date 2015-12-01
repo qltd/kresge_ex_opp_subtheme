@@ -1,0 +1,74 @@
+@media (min-width: 61.25em) {
+  .layout-panels-kresge-news-detail .layout-title {
+    width: 65.21739%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0;
+    clear: none;
+    margin-bottom: 1em;
+  }
+  .layout-panels-kresge-news-detail.main.sidebar .layout-main {
+    width: 73.91304%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0;
+    clear: none;
+  }
+  .layout-panels-kresge-news-detail.main.sidebar .layout-sidebar {
+    width: 21.73913%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: none;
+  }
+}
+
+.layout-panels-kresge-news-detail {
+  *zoom: 1;
+}
+.layout-panels-kresge-news-detail:after {
+  display: table;
+  content: "";
+}
+.layout-panels-kresge-news-detail:after {
+  clear: both;
+}
+.layout-panels-kresge-news-detail .layout-preface,
+.layout-panels-kresge-news-detail .layout-main,
+.layout-panels-kresge-news-detail .layout-sidebar,
+.layout-panels-kresge-news-detail .layout-title,
+.layout-panels-kresge-news-detail .layout-featured-image,
+.layout-panels-kresge-news-detail .layout-bottom {
+  *zoom: 1;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  *box-sizing: content-box;
+  *behavior: url("/sites/all/themes/gesso/polyfills/boxsizing.htc");
+}
+.layout-panels-kresge-news-detail .layout-preface:after,
+.layout-panels-kresge-news-detail .layout-main:after,
+.layout-panels-kresge-news-detail .layout-sidebar:after,
+.layout-panels-kresge-news-detail .layout-title:after,
+.layout-panels-kresge-news-detail .layout-featured-image:after,
+.layout-panels-kresge-news-detail .layout-bottom:after {
+  display: table;
+  content: "";
+}
+.layout-panels-kresge-news-detail .layout-preface:after,
+.layout-panels-kresge-news-detail .layout-main:after,
+.layout-panels-kresge-news-detail .layout-sidebar:after,
+.layout-panels-kresge-news-detail .layout-title:after,
+.layout-panels-kresge-news-detail .layout-featured-image:after,
+.layout-panels-kresge-news-detail .layout-bottom:after {
+  clear: both;
+}
+.layout-panels-kresge-news-detail .layout-bottom,
+.layout-panels-kresge-news-detail .layout-featured-image {
+  clear: both;
+}
+.layout-panels-kresge-news-detail .layout-main {
+  clear: left !important;
+}
+
+/*# sourceMappingURL=kresge-news-detail.css.map */

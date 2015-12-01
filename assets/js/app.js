@@ -1,12 +1,14 @@
 // Foundation JavaScript
 // Documentation can be found at: http://foundation.zurb.com/docs
-$(document).foundation();
+jQuery(document).foundation();
 
-$(document).ready(function(){
-    $('#cities_slideshow').slippry(
+jQuery(document).ready(function(){
+    jQuery('#cities_slideshow').slippry(
         {
             'captions' : false,
             'pager' : false,
         } 
         );
+    jQuery('.pane--kresge-header').addClass('pane-kresge-header');
+    jQuery('.pane--kresge-footer').addClass('pane-kresge-footer');
 });

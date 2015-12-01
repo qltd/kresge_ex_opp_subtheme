@@ -1,0 +1,40 @@
+@media (min-width: 43.75em) {
+  .kresge-twocol-preface-bottom .panel-col-first {
+    width: 21.73913%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0;
+    clear: none;
+  }
+  .kresge-twocol-preface-bottom .panel-col-last {
+    width: 47.82609%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 26.08696%;
+    clear: none;
+  }
+}
+@media (min-width: 61.25em) {
+  .kresge-twocol-preface-bottom .panel-col-first {
+    width: 13.04348%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0;
+    clear: none;
+  }
+  .kresge-twocol-preface-bottom .panel-col-last {
+    width: 56.52174%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 17.3913%;
+    clear: none;
+  }
+}
+.kresge-twocol-preface-bottom .layout-bottom, .kresge-twocol-preface-bottom .layout-preface {
+  clear: both;
+}
+.kresge-twocol-preface-bottom .inside {
+  padding: 0;
+}
+
+/*# sourceMappingURL=kresge-two-column-preface-bottom.css.map */

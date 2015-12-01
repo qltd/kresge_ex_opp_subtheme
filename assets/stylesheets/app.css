@@ -9750,7 +9750,7 @@ th.hide-for-touch {
 }
 /* line 21, ../scss/_expanding_opportunities.scss */
 html {
-  font-size: 62.5%;
+  font-size: 62.5% !important;
 }
 
 /* line 25, ../scss/_expanding_opportunities.scss */

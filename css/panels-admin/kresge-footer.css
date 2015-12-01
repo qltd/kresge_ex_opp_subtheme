@@ -1,0 +1,48 @@
+.kresge-footer {
+  *zoom: 1;
+  /*@include breakpoint(700px, $no-query: true) {
+    .panel-col-first {
+      @include grid-span(8, 1);
+    }
+    .panel-col-last {
+      @include grid-span(4, 9);
+    }
+  }*/
+}
+.kresge-footer:after {
+  display: table;
+  content: "";
+}
+.kresge-footer:after {
+  clear: both;
+}
+@media (min-width: 61.25em) {
+  .kresge-footer .panel-col-first {
+    width: 73.91304%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0;
+    clear: none;
+  }
+  .kresge-footer .panel-col-last {
+    width: 21.73913%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: none;
+  }
+}
+.kresge-footer .panel-col-bottom {
+  width: 100%;
+  clear: both;
+  *zoom: 1;
+}
+.kresge-footer .panel-col-bottom:after {
+  display: table;
+  content: "";
+}
+.kresge-footer .panel-col-bottom:after {
+  clear: both;
+}
+
+/*# sourceMappingURL=kresge-footer.css.map */

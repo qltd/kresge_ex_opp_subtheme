@@ -1,3 +1,4 @@
+<?php $theme_path = path_to_theme(); ?>
 <section id="banner">
     <div class="row">
         <div class="large-12 columns">
@@ -11,43 +12,43 @@
         <div class="large-12 columns cities-slideshow-wrap">
             <ul id="cities_slideshow">
                 <li>
-                <a href="#slide1"><img src="assets/images/cities/Skyline-Atlanta.png" alt="Atlanta"></a>
+                <a href="#slide1"><img src="<?php print $theme_path; ?>/assets/images/cities/Skyline-Atlanta.png" alt="Atlanta"></a>
                 </li>
                 <li>
-                <a href="#slide2"><img src="assets/images/cities/Skyline-Baltimore.png"  alt="Baltimore"></a>
+                <a href="#slide2"><img src="<?php print $theme_path; ?>/assets/images/cities/Skyline-Baltimore.png"  alt="Baltimore"></a>
                 </li>
                 <li>
-                <a href="#slide3"><img src="assets/images/cities/Skyline-Cleveland.png" alt="Cleveland"></a>
+                <a href="#slide3"><img src="<?php print $theme_path; ?>/assets/images/cities/Skyline-Cleveland.png" alt="Cleveland"></a>
                 </li>
                 <li>
-                <a href="#slide3"><img src="assets/images/cities/Skyline-Detroit.png" alt="Detroit"></a>
+                <a href="#slide3"><img src="<?php print $theme_path; ?>/assets/images/cities/Skyline-Detroit.png" alt="Detroit"></a>
                 </li>
                 <li>
-                <a href="#slide3"><img src="assets/images/cities/Skyline-FortLauderdale.png" alt="Fort Lauderdale"></a>
+                <a href="#slide3"><img src="<?php print $theme_path; ?>/assets/images/cities/Skyline-FortLauderdale.png" alt="Fort Lauderdale"></a>
                 </li>
                 <li>
-                <a href="#slide3"><img src="assets/images/cities/Skyline-Houston.png" alt="Houston"></a>
+                <a href="#slide3"><img src="<?php print $theme_path; ?>/assets/images/cities/Skyline-Houston.png" alt="Houston"></a>
                 </li>
                 <li>
-                <a href="#slide3"><img src="assets/images/cities/Skyline-Memphis.png" alt="Memphis"></a>
+                <a href="#slide3"><img src="<?php print $theme_path; ?>/assets/images/cities/Skyline-Memphis.png" alt="Memphis"></a>
                 </li>
                 <li>
-                <a href="#slide3"><img src="assets/images/cities/Skyline-NewOrleans.png" alt="New Orleans"></a>
+                <a href="#slide3"><img src="<?php print $theme_path; ?>/assets/images/cities/Skyline-NewOrleans.png" alt="New Orleans"></a>
                 </li>
                 <li>
-                <a href="#slide3"><img src="assets/images/cities/Skyline-Oakland.png" alt="Oakland"></a>
+                <a href="#slide3"><img src="<?php print $theme_path; ?>/assets/images/cities/Skyline-Oakland.png" alt="Oakland"></a>
                 </li>
                 <li>
-                <a href="#slide3"><img src="assets/images/cities/Skyline-Philadelphia.png" alt="Philadelphia"></a>
+                <a href="#slide3"><img src="<?php print $theme_path; ?>/assets/images/cities/Skyline-Philadelphia.png" alt="Philadelphia"></a>
                 </li>
                 <li>
-                <a href="#slide3"><img src="assets/images/cities/Skyline-Pittsburgh.png" alt="Pittsburgh"></a>
+                <a href="#slide3"><img src="<?php print $theme_path; ?>/assets/images/cities/Skyline-Pittsburgh.png" alt="Pittsburgh"></a>
                 </li>
                 <li>
-                <a href="#slide3"><img src="assets/images/cities/Skyline-StLouis.png" alt="St Louis"></a>
+                <a href="#slide3"><img src="<?php print $theme_path; ?>/assets/images/cities/Skyline-StLouis.png" alt="St Louis"></a>
                 </li>
                 <li>
-                <a href="#slide3"><img src="assets/images/cities/Skyline-WashingtonDC.png" alt="Washington DC"></a>
+                <a href="#slide3"><img src="<?php print $theme_path; ?>/assets/images/cities/Skyline-WashingtonDC.png" alt="Washington DC"></a>
                 </li>
             </ul>
         </div>  
@@ -129,19 +130,19 @@
     <div class="row">
         <div class="large-4 columns">
             <div class="fast-fact-wrap">
-                <div class="fast-fact-icon"><img src="assets/images/fast_facts/ff1.png" alt="" /></div> 
+                <div class="fast-fact-icon"><img src="<?php print $theme_path; ?>/assets/images/fast_facts/ff1.png" alt="" /></div> 
                 <div class="fast-fact-content">$3.5 Billion Endowment</div> 
             </div>
         </div> 
         <div class="large-4 columns">
             <div class="fast-fact-wrap">
-                <div class="fast-fact-icon"><img src="assets/images/fast_facts/ff2.png" alt="" /></div> 
+                <div class="fast-fact-icon"><img src="<?php print $theme_path; ?>/assets/images/fast_facts/ff2.png" alt="" /></div> 
                 <div class="fast-fact-content">$138.1 Million in grants paid in 2014</div> 
             </div>
         </div> 
         <div class="large-4 columns">
             <div class="fast-fact-wrap">
-                <div class="fast-fact-icon"><img src="assets/images/fast_facts/ff4.png" alt="" /></div> 
+                <div class="fast-fact-icon"><img src="<?php print $theme_path; ?>/assets/images/fast_facts/ff4.png" alt="" /></div> 
                 <div class="fast-fact-content">$76 million in active social investments</div> 
             </div>
         </div> 
@@ -149,19 +150,19 @@
     <div class="row">
         <div class="large-4 columns">
             <div class="fast-fact-wrap">
-                <div class="fast-fact-icon"><img src="assets/images/fast_facts/ff3.png" alt="" /></div> 
+                <div class="fast-fact-icon"><img src="<?php print $theme_path; ?>/assets/images/fast_facts/ff3.png" alt="" /></div> 
                 <div class="fast-fact-content">founded by sebastian spering kresge in 1924</div> 
             </div>
         </div> 
         <div class="large-4 columns">
             <div class="fast-fact-wrap">
-                <div class="fast-fact-icon"><img src="assets/images/fast_facts/ff5.png" alt="" /></div> 
+                <div class="fast-fact-icon"><img src="<?php print $theme_path; ?>/assets/images/fast_facts/ff5.png" alt="" /></div> 
                 <div class="fast-fact-content">Troy and Detroit - Kresge's headquarters and satellite office</div> 
             </div>
         </div> 
         <div class="large-4 columns">
             <div class="fast-fact-wrap">
-                <div class="fast-fact-icon"><img src="assets/images/fast_facts/ff6.png" alt="" /></div> 
+                <div class="fast-fact-icon"><img src="<?php print $theme_path; ?>/assets/images/fast_facts/ff6.png" alt="" /></div> 
                 <div class="fast-fact-content">90+ employees; 12 trustees</div> 
             </div>
         </div> 
@@ -215,7 +216,7 @@
 </main>
 <section id="banner_2">
     <div class="row">
-        <img src="assets/images/brain.png" alt="Brain" />
+        <img src="<?php print $theme_path; ?>/assets/images/brain.png" alt="Brain" />
         <h2>Learning &amp; Evaluation</h2> 
         <p>We are committed to strategic learning and knowledge sharing. We monitor our work and make necessary mid-course corrections to maximize our effectiveness. We use a range of information, analyses and evaluation to understand how to invest our resources for the highest and best purpose. We share our learning with our colleagues and board, grantees, partners, the broader field and the public.</p>
     </div>
@@ -237,19 +238,19 @@
     </div>
     <div class="row">
         <div class="large-3 columns">
-            <p><a href=""><img src="assets/images/news.png" alt="News" /></a></p>
+            <p><a href=""><img src="<?php print $theme_path; ?>/assets/images/news.png" alt="News" /></a></p>
             <p><a href="">News</a></p>  
         </div>  
         <div class="large-3 columns">
-            <p><a href=""><img src="assets/images/grants.png" alt="Grants" /></a></p>
+            <p><a href=""><img src="<?php print $theme_path; ?>/assets/images/grants.png" alt="Grants" /></a></p>
             <p><a href="">Grants Awarded</a></p> 
         </div>  
         <div class="large-3 columns">
-            <p><a href=""><img src="assets/images/plant.png" alt="Plant" /></a></p>
+            <p><a href=""><img src="<?php print $theme_path; ?>/assets/images/plant.png" alt="Plant" /></a></p>
             <p><a href="">Social Investments Made</a></p> 
         </div>  
         <div class="large-3 columns">
-            <p><a href=""><img src="assets/images/library.png" alt="Library" /></a></p>
+            <p><a href=""><img src="<?php print $theme_path; ?>/assets/images/library.png" alt="Library" /></a></p>
             <p><a href="">Library</a></p> 
         </div>  
     </div>

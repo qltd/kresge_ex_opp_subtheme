@@ -1,0 +1,37 @@
+@media (min-width: 43.75em) {
+  .kresge-person-detail .panel-col-first {
+    width: 21.73913%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0;
+    clear: none;
+  }
+  .kresge-person-detail .panel-col-last {
+    width: 73.91304%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: none;
+  }
+}
+@media (min-width: 61.25em) {
+  .kresge-person-detail .panel-col-first {
+    width: 13.04348%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0;
+    clear: none;
+  }
+  .kresge-person-detail .panel-col-last {
+    width: 82.6087%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: none;
+  }
+}
+.kresge-person-detail .layout-full-content {
+  clear: both;
+}
+
+/*# sourceMappingURL=kresge-person-detail.css.map */

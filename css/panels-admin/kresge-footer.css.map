@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,cAAe;ECIX,KAAK,EAAE,CAAC;;;;;;;;;;AAGV,oBAAQ;EACN,OAAO,EAAE,KAAK;EACd,OAAO,EAAE,EAAE;;AAGb,oBAAQ;EACN,KAAK,EAAE,IAAI;;AC8CX,2BAAwB;EF9CxB,+BAAiB;IGmFjB,KAAY,EC5EN,SAAqD;ID4E3D,KAAY,ECnER,IAAU;IDmEd,YAAY,ECjDmC,KAAK;IDiDpD,WAAY,EC1CuC,CAAC;ID0CpD,KAAY,ECpB0B,IAAI;;EJ5D1C,8BAAgB;IGgFhB,KAAY,EC5EN,SAAqD;ID4E3D,KAAY,EClER,KAAwB;IDkE5B,WAAY,EC5DmC,CAAC;ID4DhD,YAAY,ECtDqC,CAAC;IDsDlD,KAAY,ECpB0B,IAAI;;;AJxD5C,gCAAkB;EAChB,KAAK,EAAE,IAAI;EACX,KAAK,EAAE,IAAI;EClBX,KAAK,EAAE,CAAC;;AAGV,sCAAQ;EACN,OAAO,EAAE,KAAK;EACd,OAAO,EAAE,EAAE;;AAGb,sCAAQ;EACN,KAAK,EAAE,IAAI",
+"sources": ["../../sass/partials/layout/panels/_kresge-footer.scss","../../sass/partials/global/helpers/_clearfix.scss","../../../../../../../../../../../../.rvm/gems/ruby-1.9.3-p484/gems/breakpoint-2.5.0/stylesheets/_breakpoint.scss","../../../../../../../../../../../../.rvm/gems/ruby-1.9.3-p484/gems/singularitygs-1.6.2/stylesheets/singularitygs/_api.scss","../../../../../../../../../../../../.rvm/gems/ruby-1.9.3-p484/gems/singularitygs-1.6.2/stylesheets/singularitygs/api/_isolation.scss"],
+"names": [],
+"file": "kresge-footer.css"
+}

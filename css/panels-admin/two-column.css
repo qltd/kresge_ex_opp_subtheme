@@ -1,0 +1,28 @@
+.two-column {
+  *zoom: 1;
+}
+.two-column:after {
+  display: table;
+  content: "";
+}
+.two-column:after {
+  clear: both;
+}
+@media (min-width: 61.25em) {
+  .two-column .panel-col-first {
+    width: 50%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0;
+    clear: none;
+  }
+  .two-column .panel-col-last {
+    width: 50%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: none;
+  }
+}
+
+/*# sourceMappingURL=two-column.css.map */

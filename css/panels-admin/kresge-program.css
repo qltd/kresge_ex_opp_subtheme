@@ -1,0 +1,60 @@
+@media (min-width: 61.25em) {
+  .kresge-program.main.sidebar .layout-main {
+    width: 65.21739%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0;
+    clear: none;
+  }
+  .kresge-program.main.sidebar .layout-sidebar {
+    width: 26.08696%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 69.56522%;
+    clear: none;
+  }
+}
+
+.kresge-program {
+  *zoom: 1;
+}
+.kresge-program:after {
+  display: table;
+  content: "";
+}
+.kresge-program:after {
+  clear: both;
+}
+.kresge-program .layout-balcony,
+.kresge-program .layout-preface,
+.kresge-program .layout-main,
+.kresge-program .layout-sidebar,
+.kresge-program .layout-bottom,
+.kresge-program .layout-full-width {
+  *zoom: 1;
+  clear: both;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  *box-sizing: content-box;
+  *behavior: url("/sites/all/themes/gesso/polyfills/boxsizing.htc");
+}
+.kresge-program .layout-balcony:after,
+.kresge-program .layout-preface:after,
+.kresge-program .layout-main:after,
+.kresge-program .layout-sidebar:after,
+.kresge-program .layout-bottom:after,
+.kresge-program .layout-full-width:after {
+  display: table;
+  content: "";
+}
+.kresge-program .layout-balcony:after,
+.kresge-program .layout-preface:after,
+.kresge-program .layout-main:after,
+.kresge-program .layout-sidebar:after,
+.kresge-program .layout-bottom:after,
+.kresge-program .layout-full-width:after {
+  clear: both;
+}
+
+/*# sourceMappingURL=kresge-program.css.map */

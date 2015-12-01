@@ -1,0 +1,34 @@
+@media (min-width: 43.75em) {
+  .kresge-listing .panel-col-first {
+    width: 10%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0;
+    clear: none;
+  }
+  .kresge-listing .panel-col-last {
+    width: 87.14286%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: none;
+  }
+}
+@media (min-width: 61.25em) {
+  .kresge-listing .panel-col-first {
+    width: 14.28571%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0;
+    clear: none;
+  }
+  .kresge-listing .panel-col-last {
+    width: 82.85714%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: none;
+  }
+}
+
+/*# sourceMappingURL=kresge-listing-two-column.css.map */

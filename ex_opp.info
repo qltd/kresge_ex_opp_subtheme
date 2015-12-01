@@ -3,6 +3,10 @@ description = This is a sub-theme of theme Gesso, made for the expanding opportu
 core = 7.x
 base theme = gesso
 
-stylesheets[all][] = style.css
 stylesheets[all][] = assets/stylesheets/app.css
 stylesheets[all][] = assets/stylesheets/slippry.css
+
+scripts[] = assets/bower_components/jquery/dist/jquery.min.js
+scripts[] = assets/bower_components/foundation/js/foundation.min.js
+scripts[] = assets/js/app.js
+scripts[] = assets/js/slippry.min.js
