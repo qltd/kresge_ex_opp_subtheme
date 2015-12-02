@@ -1,3 +1,6 @@
+<!--typekit fonts-->
+<script src="https://use.typekit.net/bli4qhk.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
 <?php $theme_path = path_to_theme(); ?>
 <div id="header"></div>
 <section id="banner">
@@ -205,7 +208,7 @@
                         <li>$600,000</li> 
                         <li>Awarded: 2015</li> 
                     </ul>
-                    <p>Our Arts &amp; Culture, Environment and Health teams are jointly funding Living Cully, an initiative of Verde, a nonprofit organization dedicated to protecting the environment while creating new businesses within low-income neighborhoods, training and employing the local residents. Cully, located in northeast Portland, is considered to be the most racially and ethnically diverse U.S. Census track in Oregon. The initiative will address multiple disparities in health, income, education, resident engagement and natural resources, blending traditional community development with environmental investments. We believe Living Cully has the potential to become a national model of healthy, resilient, sustainable community development and creative placemaking.</p>
+                    <p>Our Arts &amp; Culture, Environment and Health teams are funding Living Cully, a collaboration of Habitat for Humanity, Hacienda CDC, Native American Youth &amp; Family Center, and Verde. Led by Verde, a nonprofit that serves communities by building environmental wealth through social enterprise, outreach and advocacy, this project reinterprets sustainability as an anti-poverty strategy. It integrates environmental investments with community development resources to address multiple disparities in Portland’s Cully Neighborhood. We believe Living Cully has the potential to become a national model of healthy, resilient, sustainable community development and creative placemaking.</p>
                     <p>Youth from Hacienda CDC’s Expresiones program install bioswale at Villa de Claravista Townhomes.
                     <em>Photo: Alan Hipólito</em></p>
                     <p><a href="">A link</a></p>
@@ -219,7 +222,7 @@
     <div class="row">
         <img src="<?php print $theme_path; ?>/assets/images/brain.png" alt="Brain" />
         <h2>Learning &amp; Evaluation</h2> 
-        <p>We are committed to strategic learning and knowledge sharing. We monitor our work and make necessary mid-course corrections to maximize our effectiveness. We use a range of information, analyses and evaluation to understand how to invest our resources for the highest and best purpose. We share our learning with our colleagues and board, grantees, partners, the broader field and the public.</p>
+        <p>We are committed to strategic learning and knowledge sharing that advances our mission and the fields in which we work. To this end, we ground our work in learning questions and draw on a range of analytical approaches. We share what we’re learning with partners and the public.</p>
     </div>
 </section>
 <div id="our_work_image"></div>
@@ -227,14 +230,7 @@
     <div class="row">
         <div class="large-12 columns">
             <h2>Our Work</h2> 
-            <p>We care deeply about the work we do and how we accomplish it. Five values guide our actions and our decision making. They are:</p>
-            <ul>
-                <li>Stewardship – How we manage our resources</li> 
-                <li>Respect – How we treat one another</li> 
-                <li>Creativity – How we approach our work</li> 
-                <li>Partnership – How we work with others</li> 
-                <li>Opportunity – How we seek to improve the lives of vulnerable people living in America’s cities and how we invest in our staff.</li> 
-            </ul>
+            <p>We invite to take advantage of the faceted search functionality available in the News, Grants Awarded, Social Investments Made and Library sections of this site to delve deeply into what we are doing and why.</p>
         </div>  
     </div>
     <div class="row">

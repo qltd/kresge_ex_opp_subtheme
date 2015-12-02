@@ -33,3 +33,26 @@ html {font-size: 62.5% !important;}
 .pane.pane--page-tabs {
     display: none;
 }
+
+#header {
+    position: relative;
+    margin-top: -20rem;
+    z-index: -5;
+}
+
+.section-expanding-opportunites .pane-kresge-header {
+    background: rgba(49, 49, 49, 0.65) none repeat scroll 0 0;
+    z-index:5;
+}
+
+.section-expanding-opportunites .pane-kresge-header:hover {
+    background: #525051;
+}
+
+#banner h2, #cities h3, #our_work h2 {
+    margin-bottom: 3rem;
+}
+
+#banner p, #banner_2 p, #our_work p {
+    margin-bottom: 0; 
+}
