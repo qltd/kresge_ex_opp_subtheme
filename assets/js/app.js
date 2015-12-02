@@ -11,4 +11,5 @@ jQuery(document).ready(function(){
         );
     jQuery('.pane--kresge-header').addClass('pane-kresge-header');
     jQuery('.pane--kresge-footer').addClass('pane-kresge-footer');
+    jQuery('.site-tagline .pane__content').addClass('pane-content');
 });

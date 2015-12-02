@@ -1,0 +1,35 @@
+/**
+ * Styles needed to merge Expanding Opportunities subtheme into Gesso Theme
+ * @rdarling42
+ *
+ * */
+
+html {font-size: 62.5% !important;}
+
+#main li {
+    margin-bottom:0.5rem;
+}
+
+#main h4 {
+    margin-bottom: 1rem;
+}
+
+#our_work li {
+    margin-bottom: 0.5rem;
+}
+
+.kresge-footer li {
+    font-size: 14px !important;
+}
+
+.kresge-footer ul {
+    margin-left: 0 !important;
+}
+
+.tb-megamenu-submenu li, .tb-megamenu-submenu p, .tb-megamenu-submenu a {
+    font-size: 18px !important;
+}
+
+.pane.pane--page-tabs {
+    display: none;
+}

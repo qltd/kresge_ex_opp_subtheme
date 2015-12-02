@@ -5,6 +5,7 @@ base theme = gesso
 
 stylesheets[all][] = assets/stylesheets/app.css
 stylesheets[all][] = assets/stylesheets/slippry.css
+stylesheets[all][] = ex_opp.css
 
 scripts[] = assets/bower_components/jquery/dist/jquery.min.js
 scripts[] = assets/bower_components/foundation/js/foundation.min.js

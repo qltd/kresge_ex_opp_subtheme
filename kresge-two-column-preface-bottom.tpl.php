@@ -1,4 +1,5 @@
 <?php $theme_path = path_to_theme(); ?>
+<div id="header"></div>
 <section id="banner">
     <div class="row">
         <div class="large-12 columns">
