@@ -185,8 +185,8 @@
                         <li>$200,000</li> 
                         <li>Awarded: 2015</li> 
                     </ul>
-                    <p>Our Education and Human Services teams are supporting the Prison University Project, located at San Quentin State Prison, as they create four new higher education programs for men incarcerated in California. To foster positive re-entry, an array of human services – housing, employment and mental-health assistance, among others – will be a facet of the new  educational programs. This grant is expected to yield three outcomes: help establish the new programs; continue to meet the higher ed needs of men at San Quentin; and collect two years of education and recidivism data for learning and evaluation.</p>
-                    <p>Valedictorian of the class of 2014, Aly Tamboura, hugs his daughter Samantha. 
+                    <p>Our Education and Human Services teams are supporting the Prison University Project, located at San Quentin State Prison in California, as they implement and expand a comprehensive higher education program. With the Prison University Project’s guidance, California officials will create four new prison education programs that include an array of human services—housing, employment, and mental health assistance, among others—that foster re-entry. This grant is expected to yield three outcomes: help establish the new programs; continue to meet the educational needs of men at San Quentin; and collect two years of education and recidivism data for learning and evaluation.</p>
+                    <p><strong>Valedictorian of the class of 2014, Aly Tamboura, hugs his daughter Samantha.</strong> 
                     <em>Photo: Phil Carter</em></p>
                     <p><a href="">A link</a></p>
                 </div> 
@@ -209,7 +209,7 @@
                         <li>Awarded: 2015</li> 
                     </ul>
                     <p>Our Arts &amp; Culture, Environment and Health teams are funding Living Cully, a collaboration of Habitat for Humanity, Hacienda CDC, Native American Youth &amp; Family Center, and Verde. Led by Verde, a nonprofit that serves communities by building environmental wealth through social enterprise, outreach and advocacy, this project reinterprets sustainability as an anti-poverty strategy. It integrates environmental investments with community development resources to address multiple disparities in Portland’s Cully Neighborhood. We believe Living Cully has the potential to become a national model of healthy, resilient, sustainable community development and creative placemaking.</p>
-                    <p>Youth from Hacienda CDC’s Expresiones program install bioswale at Villa de Claravista Townhomes.
+                    <p><strong>Youth from Hacienda CDC’s Expresiones program install bioswale at Villa de Claravista Townhomes.</strong>
                     <em>Photo: Alan Hipólito</em></p>
                     <p><a href="">A link</a></p>
                 </div> 

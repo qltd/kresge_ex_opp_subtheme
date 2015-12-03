@@ -6,12 +6,33 @@
 
 html {font-size: 62.5% !important;}
 
+body, h1, h2, h3, h4, h5, h6, li, p {
+    font-family: 'metaplusregular' !important;
+}
+
 #main li {
-    margin-bottom:0.5rem;
+    margin-bottom:0;
+}
+
+#main em {
+    display: block;
+    font-size:1.5rem;
 }
 
 #main h4 {
     margin-bottom: 1rem;
+}
+
+#main p {
+    margin-bottom: 0;
+}
+
+#main strong {
+    font-size:1.8rem;
+}
+
+.tb-megamenu .nav > li > a {
+    font-size:17px !important;
 }
 
 #our_work li {
