@@ -1,13 +1,10 @@
-<!--typekit fonts-->
-<script src="https://use.typekit.net/bli4qhk.js"></script>
-<script>try{Typekit.load({ async: true });}catch(e){}</script>
 <?php $theme_path = path_to_theme(); ?>
 <div id="header"></div>
 <section id="banner">
     <div class="row">
         <div class="large-12 columns">
             <h2>Expanding Opportunities</h2> 
-            <p>Working together to bring about a bold urban future in America's cities</p>
+            <p>Working together to bring about a bold urban future in America&rsquo;s cities.</p>
         </div>
     </div>
 </section>
@@ -60,14 +57,14 @@
     <div class="row">
         <div class="large-12 columns">
             <h3>Why Cities?</h3> 
-            <p>More than 80 percent of our nation's population lives in and around cities. We want to improve the quality of city life, particularly for the less fortunate</p>
+            <p>More than 80 percent of our nation&rsquo;s population lives in and around cities. We want to improve the quality of city life, particularly for the less fortunate.</p>
         </div> 
     </div> 
 </section>
 <section id="block_area">
     <div class="row">
         <div class="large-12 columns">
-            <h3>How is Kresge Expanding Opportunities in America's Cities?</h3> 
+            <h3>How is Kresge Expanding Opportunities in America&rsquo;s Cities?</h3> 
         </div>  
     </div>    
     <div class="row">
@@ -92,9 +89,9 @@
     </div>
     <div class="row">
         <div class="large-4 columns">
-            <div class="ibox-wrap box4">
-                <div class="ibox-header">Health</div> 
-                <div class="ibox-content">We work to reduce health disparities among children and adults by addressing conditions that lead to poor health outcomes.</div>
+            <div class="ibox-wrap box6">
+                <div class="ibox-header">Environment</div> 
+                <div class="ibox-content">We help communities build environmental, economic and social resilience in the face of climate change.</div>
             </div> 
         </div> 
         <div class="large-4 columns">
@@ -104,9 +101,9 @@
             </div> 
         </div> 
         <div class="large-4 columns">
-            <div class="ibox-wrap box6">
-                <div class="ibox-header">Environment</div> 
-                <div class="ibox-content">We help communities build environmental, economic and social resilience in the face of climate change.</div>
+            <div class="ibox-wrap box4">
+                <div class="ibox-header">Health</div> 
+                <div class="ibox-content">We work to reduce health disparities among children and adults by addressing conditions that lead to poor health outcomes.</div>
             </div> 
         </div> 
     </div>
@@ -188,7 +185,7 @@
                     <p>Our Education and Human Services teams are supporting the Prison University Project, located at San Quentin State Prison in California, as they implement and expand a comprehensive higher education program. With the Prison University Project’s guidance, California officials will create four new prison education programs that include an array of human services—housing, employment, and mental health assistance, among others—that foster re-entry. This grant is expected to yield three outcomes: help establish the new programs; continue to meet the educational needs of men at San Quentin; and collect two years of education and recidivism data for learning and evaluation.</p>
                     <p><strong>Valedictorian of the class of 2014, Aly Tamboura, hugs his daughter Samantha.</strong> 
                     <em>Photo: Phil Carter</em></p>
-                    <p><a href="">A link</a></p>
+                    <p><a href="/how-we-fund">Learn How We Fund</a></p>
                 </div> 
             </div>  
         </div> 
@@ -211,7 +208,7 @@
                     <p>Our Arts &amp; Culture, Environment and Health teams are funding Living Cully, a collaboration of Habitat for Humanity, Hacienda CDC, Native American Youth &amp; Family Center, and Verde. Led by Verde, a nonprofit that serves communities by building environmental wealth through social enterprise, outreach and advocacy, this project reinterprets sustainability as an anti-poverty strategy. It integrates environmental investments with community development resources to address multiple disparities in Portland’s Cully Neighborhood. We believe Living Cully has the potential to become a national model of healthy, resilient, sustainable community development and creative placemaking.</p>
                     <p><strong>Youth from Hacienda CDC’s Expresiones program install bioswale at Villa de Claravista Townhomes.</strong>
                     <em>Photo: Alan Hipólito</em></p>
-                    <p><a href="">A link</a></p>
+                    <p><a href="/how-we-fund">Learn How We Fund</a></p>
                 </div> 
             </div>  
         </div> 
