@@ -12,11 +12,17 @@ body, h1, h2, h3, h4, h5, h6, li, p {
 
 #main li {
     margin-bottom:0;
+    margin-left:0;
+}
+
+#main ul {
+    padding-left: 0;
 }
 
 #main em {
     display: block;
     font-size:1.5rem;
+    margin-bottom: 1rem;
 }
 
 #main h4 {
@@ -29,6 +35,12 @@ body, h1, h2, h3, h4, h5, h6, li, p {
 
 #main strong {
     font-size:1.8rem;
+    display: block;
+    margin: 1rem 0;
+}
+
+#main .first-main-row .bg1 {
+    min-height: 93rem;
 }
 
 .tb-megamenu .nav > li > a {
@@ -80,4 +92,25 @@ body, h1, h2, h3, h4, h5, h6, li, p {
 
 #banner p, #banner_2 p, #our_work p {
     margin-bottom: 0; 
+}
+
+/* Leading */
+#cities p {
+    line-height: inherit;
+}
+
+.ibox-wrap .ibox-content {
+    line-height: 2.5rem;
+}
+
+#block_area_1 .fast-fact-content {
+    font-size: 2.5rem;
+}
+
+#banner_2 p {
+    line-height: inherit;
+}
+
+#our_work p {
+    line-height: inherit;
 }
