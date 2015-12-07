@@ -227,7 +227,7 @@
     <div class="row">
         <div class="large-12 columns">
             <h2>Our Work</h2> 
-            <p>We invite to take advantage of the faceted search functionality available in the News, Grants Awarded, Social Investments Made and Library sections of this site to delve deeply into what we are doing and why.</p>
+            <p>We invite you to take advantage of the faceted search functionality available in the News, Grants Awarded, Social Investments Made and Library sections of this site to delve deeply into what we are doing and why.</p>
         </div>  
     </div>
     <div class="row">
