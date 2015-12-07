@@ -114,3 +114,11 @@ body, h1, h2, h3, h4, h5, h6, li, p {
 #our_work p {
     line-height: inherit;
 }
+
+.mobile-menu__bar {
+    font-size:200%;
+}
+
+.nav--mobile-menu .nav__link {
+    font-size:15px;
+}
