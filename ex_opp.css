@@ -4,10 +4,19 @@
  *
  * */
 
-html {font-size: 62.5% !important;}
+html {
+    font-size: 62.5% !important; 
+    overflow-x: hidden;
+    width:100%;
+}
 
 body, h1, h2, h3, h4, h5, h6, li, p {
     font-family: 'metaplusregular' !important;
+}
+
+.section-expanding-opportunities li {
+    margin-bottom:0;
+    margin-left:0;
 }
 
 #main li {
@@ -31,6 +40,8 @@ body, h1, h2, h3, h4, h5, h6, li, p {
 
 #main p {
     margin-bottom: 0;
+    font-family: "minion-pro-1","minion-pro-2",georgia,serif !important;
+    line-height: 2.7rem;
 }
 
 #main strong {
@@ -40,7 +51,7 @@ body, h1, h2, h3, h4, h5, h6, li, p {
 }
 
 #main .first-main-row .bg1 {
-    min-height: 93rem;
+    min-height: 107rem;
 }
 
 .tb-megamenu .nav > li > a {
@@ -77,12 +88,12 @@ body, h1, h2, h3, h4, h5, h6, li, p {
     z-index: -5;
 }
 
-.section-expanding-opportunites .pane-kresge-header {
+.section-expanding-opportunities .pane-kresge-header, .pane--kresge-header {
     background: rgba(49, 49, 49, 0.65) none repeat scroll 0 0;
     z-index:5;
 }
 
-.section-expanding-opportunites .pane-kresge-header:hover {
+.section-expanding-opportunities .pane-kresge-header:hover, .pane--kresge-header:hover {
     background: #525051;
 }
 
@@ -121,4 +132,88 @@ body, h1, h2, h3, h4, h5, h6, li, p {
 
 .nav--mobile-menu .nav__link {
     font-size:15px;
+}
+
+/* menu tweaks */
+.tb-megamenu .mega > .dropdown-menu {
+    top: 192px;
+}
+
+.pane-kresge-footer .footer-menu .nav>.nav__item.has-children>.nav__link {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+/* footer tweaks */
+.pane-kresge-footer .footer-stay-connected input[type="email"] {
+    width: 100%;
+    font-size: 20px;
+    padding: 5px 10px;
+    height: auto;
+}
+
+.pane-kresge-footer .footer-stay-connected .button {
+    padding: 12px 10px;
+    width: 100%;
+    font-size: 20px;
+}
+
+.footer-stay-connected {
+    font-size: 14px;
+}
+
+
+/* mobile tweaks */
+@media(max-width: 975px){
+    #header, #our_work_image {
+        min-height:40rem; 
+    }
+    
+    #banner h2, #banner_2 h2, #our_work h2 {
+        font-size: 5rem; 
+    }
+
+    #banner p, #banner_2 p, #our_work p {
+        font-size: 2rem; 
+    }
+
+    #cities h3 {
+        font-size: 4.5rem; 
+    }
+
+    #cities p {
+        font-size: 2.5rem; 
+    }
+
+    .box5 {
+        background-position: center; 
+    }
+
+    .box3 {
+        background-position: 60%; 
+    }
+
+    #banner_2 h2, #banner_2 p {
+        padding: 0 1rem; 
+    } 
+
+    #our_work .large-3 p:last-child {
+        padding-top: 0; 
+        padding-bottom: 4rem;
+    }
+
+    .nav--mobile-menu img {
+        display: none; 
+    }
+
+    .nav--mobile-menu .field--text {
+        display: none; 
+    }
+
+    .nav--mobile-menu .nav__link {
+        font-size: 155%; 
+    }
+
 }

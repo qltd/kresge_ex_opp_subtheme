@@ -95,15 +95,15 @@
             </div> 
         </div> 
         <div class="large-4 columns">
-            <div class="ibox-wrap box5">
-                <div class="ibox-header">Human Services</div> 
-                <div class="ibox-content">We strengthen human services organizations that improve the quality of life and economic security of low-income and vulnerable people.</div>
-            </div> 
-        </div> 
-        <div class="large-4 columns">
             <div class="ibox-wrap box4">
                 <div class="ibox-header">Health</div> 
                 <div class="ibox-content">We work to reduce health disparities among children and adults by addressing conditions that lead to poor health outcomes.</div>
+            </div> 
+        </div> 
+        <div class="large-4 columns">
+            <div class="ibox-wrap box5">
+                <div class="ibox-header">Human Services</div> 
+                <div class="ibox-content">We strengthen human services organizations that improve the quality of life and economic security of low-income and vulnerable people.</div>
             </div> 
         </div> 
     </div>
