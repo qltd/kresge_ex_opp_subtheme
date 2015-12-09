@@ -164,6 +164,22 @@ body, h1, h2, h3, h4, h5, h6, li, p {
     font-size: 14px;
 }
 
+/* New images for ibox area*/
+
+.box6 {
+    background: url("assets/images/program-images-1024-environment-2.png") no-repeat;
+    background-position: center;
+}
+
+.box4 {
+    background: url("assets/images/program-images-1024-health.png") no-repeat;
+    background-position: 20%;
+}
+
+.box1 {
+    background: url("assets/images/program-images-1024-arts-culture.png") no-repeat;
+    background-position: 80%;
+}
 
 /* mobile tweaks */
 @media(max-width: 975px){
