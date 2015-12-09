@@ -136,7 +136,7 @@ body, h1, h2, h3, h4, h5, h6, li, p {
 
 /* menu tweaks */
 .tb-megamenu .mega > .dropdown-menu {
-    top: 192px;
+    top: 192px !important;
 }
 
 .pane-kresge-footer .footer-menu .nav>.nav__item.has-children>.nav__link {
