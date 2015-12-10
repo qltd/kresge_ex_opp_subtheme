@@ -14,6 +14,10 @@ body, h1, h2, h3, h4, h5, h6, li, p {
     font-family: 'metaplusregular' !important;
 }
 
+.site-tagline {
+    color: #fff !important;
+}
+
 .section-expanding-opportunities li {
     margin-bottom:0;
     margin-left:0;
@@ -48,6 +52,11 @@ body, h1, h2, h3, h4, h5, h6, li, p {
     font-size:1.8rem;
     display: block;
     margin: 1rem 0;
+    font-family: "ff-meta-web-pro-1","ff-meta-web-pro-2","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+#main a {
+    font-size: 2rem;
 }
 
 #main .first-main-row .bg1 {
@@ -173,12 +182,20 @@ body, h1, h2, h3, h4, h5, h6, li, p {
 
 .box4 {
     background: url("assets/images/program-images-1024-health.png") no-repeat;
-    background-position: 20%;
+    background-position: 20% -20px;
 }
 
 .box1 {
-    background: url("assets/images/program-images-1024-arts-culture.png") no-repeat;
-    background-position: 80%;
+    background: url("assets/images/program-images-1024-arts-culture-3.png") no-repeat;
+    background-position: 30%;
+}
+
+.box2 {
+    background-position: 95% -80px;
+}
+
+.box8 {
+    background-position: center;
 }
 
 /* mobile tweaks */
@@ -229,4 +246,10 @@ body, h1, h2, h3, h4, h5, h6, li, p {
     }
 
 
+}
+
+@media(min-width: 1024px){
+    .box3 {
+        background-position: 70%; 
+    }
 }
