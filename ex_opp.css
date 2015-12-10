@@ -1,5 +1,5 @@
 /**
- * Styles needed to merge Expanding Opportunities subtheme into Gesso Theme
+ * Styles (hacks) needed to merge Expanding Opportunities subtheme into Gesso Theme
  * @rdarling42
  *
  * */
@@ -148,11 +148,19 @@ body, h1, h2, h3, h4, h5, h6, li, p {
     top: 192px !important;
 }
 
-.pane-kresge-footer .footer-menu .nav>.nav__item.has-children>.nav__link {
+.pane-kresge-footer .footer-menu .nav>.nav__item.has-children>.nav__link.nolink {
     color: #fff;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 16px;
+}
+
+.tb-megamenu-submenu p {
+    font-family: "minion-pro-1","minion-pro-2",georgia,serif !important;
+}
+
+.tb-megamenu .dropdown-menu li > a {
+    font-size: 16.2333px !important;
 }
 
 /* footer tweaks */
@@ -170,6 +178,19 @@ body, h1, h2, h3, h4, h5, h6, li, p {
 }
 
 .footer-stay-connected {
+    font-size: 14px;
+}
+
+.kresge-footer .panel-col-last.panel-panel {
+    width: 27.9661%;
+}
+
+.kresge-footer .panel-col-last.panel-panel h2 {
+    margin-bottom: 1em;
+
+}
+
+.kresge-footer .panel-col-last.panel-panel p {
     font-size: 14px;
 }
 
