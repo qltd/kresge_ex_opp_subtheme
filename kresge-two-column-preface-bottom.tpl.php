@@ -70,54 +70,54 @@
     <div class="row">
         <div class="large-4 columns">
             <div class="ibox-wrap box1">
-                <div class="ibox-header">Arts &amp; Culture</div> 
-                <div class="ibox-content">We build strong, healthy cities by promoting the integration of arts and culture in community revitalization.</div>
+                <div class="ibox-header"><a href="/programs/arts-culture">Arts &amp; Culture</a></div> 
+                <div class="ibox-content"><a href="/programs/arts-culture">We build strong, healthy cities by promoting the integration of arts and culture in community revitalization.</a></div>
             </div> 
         </div> 
         <div class="large-4 columns">
             <div class="ibox-wrap box2">
-                <div class="ibox-header">Detroit</div> 
-                <div class="ibox-content">We use a comprehensive framework to promote long-term economic opportunity in our hometown.</div>
+                <div class="ibox-header"><a href="/programs/detroit">Detroit</a></div> 
+                <div class="ibox-content"><a href="/programs/detroit">We use a comprehensive framework to promote long-term economic opportunity in our hometown.</a></div>
             </div> 
         </div> 
         <div class="large-4 columns">
             <div class="ibox-wrap box3">
-                <div class="ibox-header">Education</div> 
-                <div class="ibox-content">We promote secondary access and success for low-income, first-generation and underrepresented students.</div>
+                <div class="ibox-header"><a href="/programs/education">Education</a></div> 
+                <div class="ibox-content"><a href="/programs/education">We promote secondary access and success for low-income, first-generation and underrepresented students.</a></div>
             </div> 
         </div> 
     </div>
     <div class="row">
         <div class="large-4 columns">
             <div class="ibox-wrap box6">
-                <div class="ibox-header">Environment</div> 
-                <div class="ibox-content">We help communities build environmental, economic and social resilience in the face of climate change.</div>
+                <div class="ibox-header"><a href="/programs/environment">Environment</a></div> 
+                <div class="ibox-content"><a href="/programs/environment">We help communities build environmental, economic and social resilience in the face of climate change.</a></div>
             </div> 
         </div> 
         <div class="large-4 columns">
             <div class="ibox-wrap box4">
-                <div class="ibox-header">Health</div> 
-                <div class="ibox-content">We work to reduce health disparities among children and adults by addressing conditions that lead to poor health outcomes.</div>
+                <div class="ibox-header"><a href="/programs/health">Health</a></div> 
+                <div class="ibox-content"><a href="/programs/health">We work to reduce health disparities among children and adults by addressing conditions that lead to poor health outcomes.</a></div>
             </div> 
         </div> 
         <div class="large-4 columns">
             <div class="ibox-wrap box5">
-                <div class="ibox-header">Human Services</div> 
-                <div class="ibox-content">We strengthen human services organizations that improve the quality of life and economic security of low-income and vulnerable people.</div>
+                <div class="ibox-header"><a href="/programs/human-services">Human Services</a></div> 
+                <div class="ibox-content"><a href="/programs/human-services">We strengthen human services organizations that improve the quality of life and economic security of low-income and vulnerable people.</a></div>
             </div> 
         </div> 
     </div>
     <div class="row">
         <div class="large-6 columns">
             <div class="ibox-wrap box7">
-                <div class="ibox-header">Social Investing</div> 
-                <div class="ibox-content">We work to expand opportunity, strengthen neighborhoods and improve quality of life in America’s cities by providing access to capital.</div>
+                <div class="ibox-header"><a href="/how-we-fund/social-investing">Social Investing</a></div> 
+                <div class="ibox-content"><a href="/how-we-fund/social-investing">We work to expand opportunity, strengthen neighborhoods and improve quality of life in America’s cities by providing access to capital.</a></div>
             </div> 
         </div>  
         <div class="large-6 columns">
             <div class="ibox-wrap box8">
-                <div class="ibox-header">American Cities</div> 
-                <div class="ibox-content">We capture lessons learned from our work in Detroit and apply that knowledge to our work in other cities in the United States.</div>
+                <div class="ibox-header"><a href="/how-we-fund/american-cities">American Cities</a></div> 
+                <div class="ibox-content"><a href="/how-we-fund/american-cities">We capture lessons learned from our work in Detroit and apply that knowledge to our work in other cities in the United States.</a></div>
             </div> 
         </div>  
     </div>

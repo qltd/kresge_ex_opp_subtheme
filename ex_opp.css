@@ -114,6 +114,10 @@ body, h1, h2, h3, h4, h5, h6, li, p {
     margin-bottom: 0; 
 }
 
+.ibox-wrap a, .ibox-wrap a:link, .ibox-wrap a:visited, .ibox-wrap a:hover, .ibox-wrap a:active {
+    color: #fff;
+}
+
 /* Leading */
 #cities p {
     line-height: inherit;
