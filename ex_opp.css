@@ -55,10 +55,6 @@ body, h1, h2, h3, h4, h5, h6, li, p {
     font-family: "ff-meta-web-pro-1","ff-meta-web-pro-2","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
-#main a {
-    font-size: 2rem;
-}
-
 #main .first-main-row .bg1 {
     min-height: 107rem;
 }
@@ -270,6 +266,9 @@ body, h1, h2, h3, h4, h5, h6, li, p {
         display: none; 
     }
 
+    .kresge-footer .panel-col-last.panel-panel {
+        width: auto; 
+    }
 
 }
 

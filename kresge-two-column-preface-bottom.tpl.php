@@ -232,20 +232,20 @@
     </div>
     <div class="row">
         <div class="large-3 columns">
-            <p><a href=""><img src="<?php print $theme_path; ?>/assets/images/news.png" alt="News" /></a></p>
-            <p><a href="">News</a></p>  
+            <p><a href="/news"><img src="<?php print $theme_path; ?>/assets/images/news.png" alt="News" /></a></p>
+            <p><a href="/news">News</a></p>  
         </div>  
         <div class="large-3 columns">
-            <p><a href=""><img src="<?php print $theme_path; ?>/assets/images/grants.png" alt="Grants" /></a></p>
-            <p><a href="">Grants Awarded</a></p> 
+            <p><a href="/grants"><img src="<?php print $theme_path; ?>/assets/images/grants.png" alt="Grants" /></a></p>
+            <p><a href="/grants">Grants Awarded</a></p> 
         </div>  
         <div class="large-3 columns">
-            <p><a href=""><img src="<?php print $theme_path; ?>/assets/images/plant.png" alt="Plant" /></a></p>
-            <p><a href="">Social Investments Made</a></p> 
+            <p><a href="/social-investments"><img src="<?php print $theme_path; ?>/assets/images/plant.png" alt="Plant" /></a></p>
+            <p><a href="/social-investments">Social Investments Made</a></p> 
         </div>  
         <div class="large-3 columns">
-            <p><a href=""><img src="<?php print $theme_path; ?>/assets/images/library.png" alt="Library" /></a></p>
-            <p><a href="">Library</a></p> 
+            <p><a href="/library"><img src="<?php print $theme_path; ?>/assets/images/library.png" alt="Library" /></a></p>
+            <p><a href="/library">Library</a></p> 
         </div>  
     </div>
 </section>
