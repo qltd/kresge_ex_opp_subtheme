@@ -152,7 +152,7 @@ body, h1, h2, h3, h4, h5, h6, li, p {
     color: #fff;
     text-transform: uppercase;
     font-weight: 700;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .tb-megamenu-submenu p {
@@ -192,6 +192,14 @@ body, h1, h2, h3, h4, h5, h6, li, p {
 
 .kresge-footer .panel-col-last.panel-panel p {
     font-size: 14px;
+}
+
+.footer-menu .nav__link:hover, .footer-menu .nav__link:focus {
+    color: #0f9cbe !important;
+}
+
+.footer-menu .nav__link.nolink:hover, .footer-menu .nav__link.nolink:focus {
+    color: #fff !important;
 }
 
 /* New images for ibox area*/
