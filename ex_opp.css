@@ -237,6 +237,10 @@ body, h1, h2, h3, h4, h5, h6, li, p {
         font-size: 5rem; 
     }
 
+    #banner {
+        padding: 5rem 0; 
+    }
+
     #banner p, #banner_2 p, #our_work p {
         font-size: 2rem; 
     }
@@ -276,6 +280,18 @@ body, h1, h2, h3, h4, h5, h6, li, p {
 
     .kresge-footer .panel-col-last.panel-panel {
         width: auto; 
+    }
+
+    #block_area_1 .fast-fact-wrap {
+        display: inherit; 
+    }
+
+    #block_area_1 .fast-fact-content {
+        padding-top: 5rem; 
+    }
+
+    #block_area_1 .fast-fact-icon {
+        padding-top: 5rem; 
     }
 
 }
