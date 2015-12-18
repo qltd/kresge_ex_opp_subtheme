@@ -11,3 +11,8 @@ scripts[] = assets/bower_components/jquery/dist/jquery.min.js
 scripts[] = assets/bower_components/foundation/js/foundation.min.js
 scripts[] = assets/js/app.js
 scripts[] = assets/js/slippry.min.js
+
+
+features[] = 'favicon'
+settings[favicon_path] =
+settings[favicon_upload] =
